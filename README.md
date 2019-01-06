@@ -5,7 +5,7 @@
 ## Dependencies
 * [NodeJS](https://nodejs.org/en/)
 * [VueJS](https://vuejs.org/)
-* [Vuex](https://vuex.vuejs.org/)
+* [Vue-Router](https://router.vuejs.org/)
 
 ## Getting Started
 
