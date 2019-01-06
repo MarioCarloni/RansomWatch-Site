@@ -1,10 +1,13 @@
-# ransomwatch
+# RansomWatch Site
 
-> Marketing Site
+> This front-end demonstrates Vue routing and component management
 
-> Built with [VueJS](https://vuejs.org/v2/guide/) and [Bootstrap Vue](https://bootstrap-vue.js.org/docs)
+## Dependencies
+* [NodeJS](https://nodejs.org/en/)
+* [VueJS](https://vuejs.org/)
+* [Vuex](https://vuex.vuejs.org/)
 
-## Build Setup
+## Getting Started
 
 ``` bash
 # install dependencies
